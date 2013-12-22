@@ -1,0 +1,28 @@
+.blue{
+	color:blue;
+}
+
+.adjustTop{
+	top:0px;
+}
+
+.invisible{
+	display:none;
+}
+
+.darkblue{
+	background-color:#493AE8;
+	color: white
+}
+
+.lightblue{
+	background-color:#3397DE
+}
+
+.borderColor{
+	border:1px solid black
+}
+
+.font{
+	font-size:10px !important;
+}
